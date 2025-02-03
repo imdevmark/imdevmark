@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Currently learning all I can about Machine Learning and Ai.
 <!--
 **imdevmark/imdevmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
